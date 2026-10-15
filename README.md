@@ -19,3 +19,15 @@ Je suis étudiant en première année de Licence en Ingénierie des Systèmes In
 ## Mes liens
 
 - [Mon profil GitHub](https://github.com/YassineHannachi2026)
+
+## Mes objectifs ce semestre
+
+Durant ce premier semestre, mes objectifs sont :
+
+- Améliorer mes compétences en algorithmique.
+- Apprendre les bases de la programmation en langage C.
+- Comprendre les systèmes d'exploitation.
+- Maîtriser les bases de Git et GitHub.
+- Développer ma logique et ma capacité à résoudre des problèmes.
+- Réussir mes examens avec de bons résultats.
+- Réaliser mes premiers projets informatiques.
